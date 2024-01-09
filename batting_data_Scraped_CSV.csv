@@ -1,0 +1,877 @@
+match,teaminnings,battingPos,BATTING,R,B,M,4s,6s,SR
+India Vs Australia,India,1,Rohit Sharma (c),47,31,44,4,3,151.61
+India Vs Australia,India,2,Shubman Gill,4,7,21,0,0,57.14
+India Vs Australia,India,3,Virat Kohli,54,63,99,4,0,85.71
+India Vs Australia,India,4,Shreyas Iyer,4,3,3,1,0,133.33
+India Vs Australia,India,5,KL Rahul †,66,107,133,1,0,61.68
+India Vs Australia,India,6,Ravindra Jadeja,9,22,33,0,0,40.90
+India Vs Australia,India,7,Suryakumar Yadav,18,28,57,1,0,64.28
+India Vs Australia,India,8,Mohammed Shami,6,10,9,1,0,60.00
+India Vs Australia,India,9,Jasprit Bumrah,1,3,5,0,0,33.33
+India Vs Australia,India,10,Kuldeep Yadav,10,18,28,0,0,55.55
+India Vs Australia,India,11,Mohammed Siraj,9,8,13,1,0,112.50
+India Vs Australia,Australia,1,David Warner,7,3,6,1,0,233.33
+India Vs Australia,Australia,2,Travis Head,137,120,166,15,4,114.16
+India Vs Australia,Australia,3,Mitchell Marsh,15,15,15,1,1,100.00
+India Vs Australia,Australia,4,Steven Smith,4,9,11,1,0,44.44
+India Vs Australia,Australia,5,Marnus Labuschagne,58,110,133,4,0,52.72
+India Vs Australia,Australia,6,Glenn Maxwell,2,1,1,0,0,200.00
+South Africa Vs Australia,South Africa,1,Quinton de Kock †,3,14,27,0,0,21.42
+South Africa Vs Australia,South Africa,2,Temba Bavuma (c),0,4,5,0,0,0.00
+South Africa Vs Australia,South Africa,3,Rassie van der Dussen,6,31,53,0,0,19.35
+South Africa Vs Australia,South Africa,4,Aiden Markram,10,20,24,2,0,50.00
+South Africa Vs Australia,South Africa,5,Heinrich Klaasen,47,48,76,4,2,97.91
+South Africa Vs Australia,South Africa,6,David Miller,101,116,138,8,5,87.06
+South Africa Vs Australia,South Africa,7,Marco Jansen,0,1,1,0,0,0.00
+South Africa Vs Australia,South Africa,8,Gerald Coetzee,19,39,42,2,0,48.71
+South Africa Vs Australia,South Africa,9,Keshav Maharaj,4,8,13,0,0,50.00
+South Africa Vs Australia,South Africa,10,Kagiso Rabada,10,12,18,0,1,83.33
+South Africa Vs Australia,South Africa,11,Tabraiz Shamsi,1,5,11,0,0,20.00
+South Africa Vs Australia,Australia,1,Travis Head,62,48,62,9,2,129.16
+South Africa Vs Australia,Australia,2,David Warner,29,18,29,1,4,161.11
+South Africa Vs Australia,Australia,3,Mitchell Marsh,0,6,5,0,0,0.00
+South Africa Vs Australia,Australia,4,Steven Smith,30,62,102,2,0,48.38
+South Africa Vs Australia,Australia,5,Marnus Labuschagne,18,31,28,2,0,58.06
+South Africa Vs Australia,Australia,6,Glenn Maxwell,1,5,8,0,0,20.00
+South Africa Vs Australia,Australia,7,Josh Inglis †,28,49,66,3,0,57.14
+South Africa Vs Australia,Australia,8,Mitchell Starc,16,38,61,2,0,42.10
+South Africa Vs Australia,Australia,9,Pat Cummins (c),14,29,32,2,0,48.27
+India Vs New Zealand,India,1,Rohit Sharma (c),47,29,40,4,4,162.06
+India Vs New Zealand,India,2,Shubman Gill,80,66,116,8,3,121.21
+India Vs New Zealand,India,3,Virat Kohli,117,113,149,9,2,103.53
+India Vs New Zealand,India,4,Shreyas Iyer,105,70,114,4,8,150.00
+India Vs New Zealand,India,5,KL Rahul †,39,20,29,5,2,195.00
+India Vs New Zealand,India,6,Suryakumar Yadav,1,2,2,0,0,50.00
+India Vs New Zealand,New Zealand,1,Devon Conway,13,15,26,3,0,86.66
+India Vs New Zealand,New Zealand,2,Rachin Ravindra,13,22,39,3,0,59.09
+India Vs New Zealand,New Zealand,3,Kane Williamson (c),69,73,116,8,1,94.52
+India Vs New Zealand,New Zealand,4,Daryl Mitchell,134,119,180,9,7,112.60
+India Vs New Zealand,New Zealand,5,Tom Latham †,0,2,1,0,0,0.00
+India Vs New Zealand,New Zealand,6,Glenn Phillips,41,33,58,4,2,124.24
+India Vs New Zealand,New Zealand,7,Mark Chapman,2,5,5,0,0,40.00
+India Vs New Zealand,New Zealand,8,Mitchell Santner,9,10,20,0,0,90.00
+India Vs New Zealand,New Zealand,9,Tim Southee,9,10,14,1,0,90.00
+India Vs New Zealand,New Zealand,10,Trent Boult,2,2,5,0,0,100.00
+India Vs New Zealand,New Zealand,11,Lockie Ferguson,6,3,2,0,1,200.00
+India Vs Netherlands,India,1,Rohit Sharma (c),61,54,74,8,2,112.96
+India Vs Netherlands,India,2,Shubman Gill,51,32,49,3,4,159.37
+India Vs Netherlands,India,3,Virat Kohli,51,56,69,5,1,91.07
+India Vs Netherlands,India,4,Shreyas Iyer,128,94,145,10,5,136.17
+India Vs Netherlands,India,5,KL Rahul †,102,64,98,11,4,159.37
+India Vs Netherlands,India,6,Suryakumar Yadav,2,1,1,0,0,200.00
+India Vs Netherlands,Netherlands,1,Wesley Barresi,4,5,8,0,0,80.00
+India Vs Netherlands,Netherlands,2,Max O'Dowd,30,42,68,3,1,71.42
+India Vs Netherlands,Netherlands,3,Colin Ackermann,35,32,46,6,0,109.37
+India Vs Netherlands,Netherlands,4,Sybrand Engelbrecht,45,80,87,4,0,56.25
+India Vs Netherlands,Netherlands,5,Scott Edwards (c)†,17,30,27,1,0,56.66
+India Vs Netherlands,Netherlands,6,Bas de Leede,12,21,23,1,0,57.14
+India Vs Netherlands,Netherlands,7,Teja Nidamanuru,54,39,65,1,6,138.46
+India Vs Netherlands,Netherlands,8,Logan van Beek,16,15,20,2,0,106.66
+India Vs Netherlands,Netherlands,9,Roelof van der Merwe,16,8,5,1,2,200.00
+India Vs Netherlands,Netherlands,10,Aryan Dutt,5,11,9,0,0,45.45
+India Vs Netherlands,Netherlands,11,Paul van Meekeren,3,4,7,0,0,75.00
+England Vs Pakistan,England,1,Dawid Malan,31,39,61,5,0,79.48
+England Vs Pakistan,England,2,Jonny Bairstow,59,61,81,7,1,96.72
+England Vs Pakistan,England,3,Joe Root,60,72,115,4,0,83.33
+England Vs Pakistan,England,4,Ben Stokes,84,76,85,11,2,110.52
+England Vs Pakistan,England,5,Jos Buttler (c)†,27,18,39,3,1,150.00
+England Vs Pakistan,England,6,Harry Brook,30,17,24,2,2,176.47
+England Vs Pakistan,England,7,Moeen Ali,8,6,10,0,1,133.33
+England Vs Pakistan,England,8,Chris Woakes,4,4,19,1,0,100.00
+England Vs Pakistan,England,9,David Willey,15,5,5,2,1,300.00
+England Vs Pakistan,England,10,Gus Atkinson,0,1,1,0,0,0.00
+England Vs Pakistan,England,11,Adil Rashid,0,1,1,0,0,0.00
+England Vs Pakistan,Pakistan,1,Abdullah Shafique,0,2,2,0,0,0.00
+England Vs Pakistan,Pakistan,2,Fakhar Zaman,1,9,13,0,0,11.11
+England Vs Pakistan,Pakistan,3,Babar Azam (c),38,45,58,6,0,84.44
+England Vs Pakistan,Pakistan,4,Mohammad Rizwan †,36,51,78,2,0,70.58
+England Vs Pakistan,Pakistan,5,Saud Shakeel,29,37,52,4,0,78.37
+England Vs Pakistan,Pakistan,6,Agha Salman,51,45,53,6,1,113.33
+England Vs Pakistan,Pakistan,7,Iftikhar Ahmed,3,5,8,0,0,60.00
+England Vs Pakistan,Pakistan,8,Shadab Khan,4,7,4,1,0,57.14
+England Vs Pakistan,Pakistan,9,Shaheen Shah Afridi,25,23,23,3,1,108.69
+England Vs Pakistan,Pakistan,10,Mohammad Wasim,16,14,33,2,1,114.28
+England Vs Pakistan,Pakistan,11,Haris Rauf,35,23,27,3,3,152.17
+Bangladesh Vs Australia,Bangladesh,1,Tanzid Hasan,36,34,55,6,0,105.88
+Bangladesh Vs Australia,Bangladesh,2,Litton Das,36,45,76,5,0,80.00
+Bangladesh Vs Australia,Bangladesh,3,Najmul Hossain Shanto (c),45,57,59,6,0,78.94
+Bangladesh Vs Australia,Bangladesh,4,Towhid Hridoy,74,79,121,5,2,93.67
+Bangladesh Vs Australia,Bangladesh,5,Mahmudullah,32,28,34,1,3,114.28
+Bangladesh Vs Australia,Bangladesh,6,Mushfiqur Rahim †,21,24,27,0,1,87.50
+Bangladesh Vs Australia,Bangladesh,7,Mehidy Hasan Miraz,29,20,33,4,0,145.00
+Bangladesh Vs Australia,Bangladesh,8,Nasum Ahmed,7,11,15,0,0,63.63
+Bangladesh Vs Australia,Bangladesh,9,Mahedi Hasan,2,3,4,0,0,66.66
+Bangladesh Vs Australia,Bangladesh,10,Taskin Ahmed,0,1,2,0,0,0.00
+Bangladesh Vs Australia,Australia,1,Travis Head,10,11,11,2,0,90.90
+Bangladesh Vs Australia,Australia,2,David Warner,53,61,90,6,0,86.88
+Bangladesh Vs Australia,Australia,3,Mitchell Marsh,177,132,177,17,9,134.09
+Bangladesh Vs Australia,Australia,4,Steven Smith,63,64,99,4,1,98.43
+Afghanistan Vs South Africa,Afghanistan,1,Rahmanullah Gurbaz,25,22,45,3,1,113.63
+Afghanistan Vs South Africa,Afghanistan,2,Ibrahim Zadran,15,30,52,3,0,50.00
+Afghanistan Vs South Africa,Afghanistan,3,Rahmat Shah,26,46,58,2,0,56.52
+Afghanistan Vs South Africa,Afghanistan,4,Hashmatullah Shahidi (c),2,7,5,0,0,28.57
+Afghanistan Vs South Africa,Afghanistan,5,Azmatullah Omarzai,97,107,173,7,3,90.65
+Afghanistan Vs South Africa,Afghanistan,6,Ikram Alikhil †,12,14,16,1,1,85.71
+Afghanistan Vs South Africa,Afghanistan,7,Mohammad Nabi,2,3,7,0,0,66.66
+Afghanistan Vs South Africa,Afghanistan,8,Rashid Khan,14,30,42,0,0,46.66
+Afghanistan Vs South Africa,Afghanistan,9,Noor Ahmad,26,32,36,4,0,81.25
+Afghanistan Vs South Africa,Afghanistan,10,Mujeeb Ur Rahman,8,5,7,0,1,160.00
+Afghanistan Vs South Africa,Afghanistan,11,Naveen-ul-Haq,2,4,12,0,0,50.00
+Afghanistan Vs South Africa,South Africa,1,Quinton de Kock †,41,47,58,2,3,87.23
+Afghanistan Vs South Africa,South Africa,2,Temba Bavuma (c),23,28,49,3,0,82.14
+Afghanistan Vs South Africa,South Africa,3,Rassie van der Dussen,76,95,141,6,1,80.00
+Afghanistan Vs South Africa,South Africa,4,Aiden Markram,25,32,32,1,1,78.12
+Afghanistan Vs South Africa,South Africa,5,Heinrich Klaasen,10,13,15,1,0,76.92
+Afghanistan Vs South Africa,South Africa,6,David Miller,24,33,35,1,1,72.72
+Afghanistan Vs South Africa,South Africa,7,Andile Phehlukwayo,39,37,46,1,3,105.40
+Sri Lanka Vs New Zealand,Sri Lanka,1,Pathum Nissanka,2,8,9,0,0,25.00
+Sri Lanka Vs New Zealand,Sri Lanka,2,Kusal Perera,51,28,46,9,2,182.14
+Sri Lanka Vs New Zealand,Sri Lanka,3,Kusal Mendis (c)†,6,7,11,1,0,85.71
+Sri Lanka Vs New Zealand,Sri Lanka,4,Sadeera Samarawickrama,1,2,2,0,0,50.00
+Sri Lanka Vs New Zealand,Sri Lanka,5,Charith Asalanka,8,8,16,1,0,100.00
+Sri Lanka Vs New Zealand,Sri Lanka,6,Angelo Mathews,16,27,33,2,0,59.25
+Sri Lanka Vs New Zealand,Sri Lanka,7,Dhananjaya de Silva,19,24,36,2,1,79.16
+Sri Lanka Vs New Zealand,Sri Lanka,8,Chamika Karunaratne,6,17,28,1,0,35.29
+Sri Lanka Vs New Zealand,Sri Lanka,9,Maheesh Theekshana,38,91,109,3,0,41.75
+Sri Lanka Vs New Zealand,Sri Lanka,10,Dushmantha Chameera,1,20,32,0,0,5.00
+Sri Lanka Vs New Zealand,Sri Lanka,11,Dilshan Madushanka,19,48,56,2,0,39.58
+Sri Lanka Vs New Zealand,New Zealand,1,Devon Conway,45,42,54,9,0,107.14
+Sri Lanka Vs New Zealand,New Zealand,2,Rachin Ravindra,42,34,61,3,3,123.52
+Sri Lanka Vs New Zealand,New Zealand,3,Kane Williamson (c),14,15,26,2,0,93.33
+Sri Lanka Vs New Zealand,New Zealand,4,Daryl Mitchell,43,31,45,5,2,138.70
+Sri Lanka Vs New Zealand,New Zealand,5,Mark Chapman,7,6,13,1,0,116.66
+Sri Lanka Vs New Zealand,New Zealand,6,Glenn Phillips,17,10,15,3,0,170.00
+Sri Lanka Vs New Zealand,New Zealand,7,Tom Latham †,2,2,3,0,0,100.00
+England Vs Netherlands,England,1,Jonny Bairstow,15,17,29,2,0,88.23
+England Vs Netherlands,England,2,Dawid Malan,87,74,92,10,2,117.56
+England Vs Netherlands,England,3,Joe Root,28,35,53,1,0,80.00
+England Vs Netherlands,England,4,Ben Stokes,108,84,136,6,6,128.57
+England Vs Netherlands,England,5,Harry Brook,11,16,19,2,0,68.75
+England Vs Netherlands,England,6,Jos Buttler (c)†,5,11,12,0,0,45.45
+England Vs Netherlands,England,7,Moeen Ali,4,15,20,0,0,26.66
+England Vs Netherlands,England,8,Chris Woakes,51,45,66,5,1,113.33
+England Vs Netherlands,England,9,David Willey,6,2,1,0,1,300.00
+England Vs Netherlands,England,10,Gus Atkinson,2,1,7,0,0,200.00
+England Vs Netherlands,England,11,Adil Rashid,1,1,3,0,0,100.00
+England Vs Netherlands,Netherlands,1,Wesley Barresi,37,62,77,3,1,59.67
+England Vs Netherlands,Netherlands,2,Max O'Dowd,5,11,20,1,0,45.45
+England Vs Netherlands,Netherlands,3,Colin Ackermann,0,2,4,0,0,0.00
+England Vs Netherlands,Netherlands,4,Sybrand Engelbrecht,33,49,73,3,1,67.34
+England Vs Netherlands,Netherlands,5,Scott Edwards (c)†,38,42,67,3,1,90.47
+England Vs Netherlands,Netherlands,6,Bas de Leede,10,12,11,2,0,83.33
+England Vs Netherlands,Netherlands,7,Teja Nidamanuru,41,34,47,2,3,120.58
+England Vs Netherlands,Netherlands,8,Logan van Beek,2,2,3,0,0,100.00
+England Vs Netherlands,Netherlands,9,Roelof van der Merwe,0,4,3,0,0,0.00
+England Vs Netherlands,Netherlands,10,Aryan Dutt,1,3,4,0,0,33.33
+England Vs Netherlands,Netherlands,11,Paul van Meekeren,4,3,3,1,0,133.33
+Afghanistan Vs Australia,Afghanistan,1,Rahmanullah Gurbaz,21,25,38,2,0,84.00
+Afghanistan Vs Australia,Afghanistan,2,Ibrahim Zadran,129,143,217,8,3,90.20
+Afghanistan Vs Australia,Afghanistan,3,Rahmat Shah,30,44,61,1,0,68.18
+Afghanistan Vs Australia,Afghanistan,4,Hashmatullah Shahidi (c),26,43,50,2,0,60.46
+Afghanistan Vs Australia,Afghanistan,5,Azmatullah Omarzai,22,18,23,1,2,122.22
+Afghanistan Vs Australia,Afghanistan,6,Mohammad Nabi,12,10,15,0,1,120.00
+Afghanistan Vs Australia,Afghanistan,7,Rashid Khan,35,18,25,2,3,194.44
+Afghanistan Vs Australia,Australia,1,David Warner,18,29,46,3,0,62.06
+Afghanistan Vs Australia,Australia,2,Travis Head,0,2,5,0,0,0.00
+Afghanistan Vs Australia,Australia,3,Mitchell Marsh,24,11,22,2,2,218.18
+Afghanistan Vs Australia,Australia,4,Marnus Labuschagne,14,28,53,2,0,50.00
+Afghanistan Vs Australia,Australia,5,Josh Inglis †,0,1,1,0,0,0.00
+Afghanistan Vs Australia,Australia,6,Glenn Maxwell,201,128,181,21,10,157.03
+Afghanistan Vs Australia,Australia,7,Marcus Stoinis,6,7,13,1,0,85.71
+Afghanistan Vs Australia,Australia,8,Mitchell Starc,3,7,8,0,0,42.85
+Afghanistan Vs Australia,Australia,9,Pat Cummins (c),12,68,122,1,0,17.64
+Sri Lanka Vs Bangladesh,Sri Lanka,1,Pathum Nissanka,41,36,61,8,0,113.88
+Sri Lanka Vs Bangladesh,Sri Lanka,2,Kusal Perera,4,5,5,1,0,80.00
+Sri Lanka Vs Bangladesh,Sri Lanka,3,Kusal Mendis (c)†,19,30,49,1,1,63.33
+Sri Lanka Vs Bangladesh,Sri Lanka,4,Sadeera Samarawickrama,41,42,53,4,0,97.61
+Sri Lanka Vs Bangladesh,Sri Lanka,5,Charith Asalanka,108,105,159,6,5,102.85
+Sri Lanka Vs Bangladesh,Sri Lanka,6,Angelo Mathews,0,0,4,0,0,-
+Sri Lanka Vs Bangladesh,Sri Lanka,7,Dhananjaya de Silva,34,36,58,4,1,94.44
+Sri Lanka Vs Bangladesh,Sri Lanka,8,Maheesh Theekshana,21,31,35,3,0,67.74
+Sri Lanka Vs Bangladesh,Sri Lanka,9,Dushmantha Chameera,4,9,17,0,0,44.44
+Sri Lanka Vs Bangladesh,Sri Lanka,10,Kasun Rajitha,0,2,1,0,0,0.00
+Sri Lanka Vs Bangladesh,Sri Lanka,11,Dilshan Madushanka,0,1,3,0,0,0.00
+Sri Lanka Vs Bangladesh,Bangladesh,1,Tanzid Hasan,9,5,11,2,0,180.00
+Sri Lanka Vs Bangladesh,Bangladesh,2,Litton Das,23,22,36,2,2,104.54
+Sri Lanka Vs Bangladesh,Bangladesh,3,Najmul Hossain Shanto,90,101,163,12,0,89.10
+Sri Lanka Vs Bangladesh,Bangladesh,4,Shakib Al Hasan (c),82,65,128,12,2,126.15
+Sri Lanka Vs Bangladesh,Bangladesh,5,Mahmudullah,22,23,37,3,1,95.65
+Sri Lanka Vs Bangladesh,Bangladesh,6,Mushfiqur Rahim †,10,13,21,1,0,76.92
+Sri Lanka Vs Bangladesh,Bangladesh,7,Towhid Hridoy,15,7,22,0,2,214.28
+Sri Lanka Vs Bangladesh,Bangladesh,8,Mehidy Hasan Miraz,3,5,9,0,0,60.00
+Sri Lanka Vs Bangladesh,Bangladesh,9,Tanzim Hasan Sakib,5,6,6,1,0,83.33
+India Vs South Africa,India,1,Rohit Sharma (c),40,24,32,6,2,166.66
+India Vs South Africa,India,2,Shubman Gill,23,24,54,4,1,95.83
+India Vs South Africa,India,3,Virat Kohli,101,121,195,10,0,83.47
+India Vs South Africa,India,4,Shreyas Iyer,77,87,101,7,2,88.50
+India Vs South Africa,India,5,KL Rahul †,8,17,29,0,0,47.05
+India Vs South Africa,India,6,Suryakumar Yadav,22,14,19,5,0,157.14
+India Vs South Africa,India,7,Ravindra Jadeja,29,15,21,3,1,193.33
+India Vs South Africa,South Africa,1,Quinton de Kock †,5,10,9,1,0,50.00
+India Vs South Africa,South Africa,2,Temba Bavuma (c),11,19,39,1,0,57.89
+India Vs South Africa,South Africa,3,Rassie van der Dussen,13,32,55,1,0,40.62
+India Vs South Africa,South Africa,4,Aiden Markram,9,6,6,2,0,150.00
+India Vs South Africa,South Africa,5,Heinrich Klaasen,1,11,12,0,0,9.09
+India Vs South Africa,South Africa,6,David Miller,11,11,17,2,0,100.00
+India Vs South Africa,South Africa,7,Marco Jansen,14,30,45,1,0,46.66
+India Vs South Africa,South Africa,8,Keshav Maharaj,7,11,7,1,0,63.63
+India Vs South Africa,South Africa,9,Kagiso Rabada,6,26,26,0,0,23.07
+India Vs South Africa,South Africa,10,Lungi Ngidi,0,3,7,0,0,0.00
+India Vs South Africa,South Africa,11,Tabraiz Shamsi,4,4,3,1,0,100.00
+Australia Vs England,Australia,1,Travis Head,11,10,8,1,0,110.00
+Australia Vs England,Australia,2,David Warner,15,16,29,1,1,93.75
+Australia Vs England,Australia,3,Steven Smith,44,52,85,3,0,84.61
+Australia Vs England,Australia,4,Marnus Labuschagne,71,83,111,7,0,85.54
+Australia Vs England,Australia,5,Josh Inglis †,3,6,5,0,0,50.00
+Australia Vs England,Australia,6,Cameron Green,47,52,81,5,0,90.38
+Australia Vs England,Australia,7,Marcus Stoinis,35,32,53,3,2,109.37
+Australia Vs England,Australia,8,Pat Cummins (c),10,13,17,1,0,76.92
+Australia Vs England,Australia,9,Mitchell Starc,10,13,30,0,0,76.92
+Australia Vs England,Australia,10,Adam Zampa,29,19,23,4,0,152.63
+Australia Vs England,Australia,11,Josh Hazlewood,1,1,1,0,0,100.00
+Australia Vs England,England,1,Jonny Bairstow,0,1,1,0,0,0.00
+Australia Vs England,England,2,Dawid Malan,50,64,99,4,1,78.12
+Australia Vs England,England,3,Joe Root,13,17,23,2,0,76.47
+Australia Vs England,England,4,Ben Stokes,64,90,128,2,3,71.11
+Australia Vs England,England,5,Jos Buttler (c)†,1,7,10,0,0,14.28
+Australia Vs England,England,6,Moeen Ali,42,43,61,6,0,97.67
+Australia Vs England,England,7,Liam Livingstone,2,5,6,0,0,40.00
+Australia Vs England,England,8,Chris Woakes,32,33,52,4,1,96.96
+Australia Vs England,England,9,David Willey,15,14,19,3,0,107.14
+Australia Vs England,England,10,Adil Rashid,20,15,23,1,1,133.33
+Australia Vs England,England,11,Mark Wood,0,0,1,0,0,-
+New Zealand Vs Pakistan,New Zealand,1,Devon Conway,35,39,48,6,0,89.74
+New Zealand Vs Pakistan,New Zealand,2,Rachin Ravindra,108,94,170,15,1,114.89
+New Zealand Vs Pakistan,New Zealand,3,Kane Williamson (c),95,79,111,10,2,120.25
+New Zealand Vs Pakistan,New Zealand,4,Daryl Mitchell,29,18,32,4,1,161.11
+New Zealand Vs Pakistan,New Zealand,5,Mark Chapman,39,27,42,7,0,144.44
+New Zealand Vs Pakistan,New Zealand,6,Glenn Phillips,41,25,40,4,2,164.00
+New Zealand Vs Pakistan,New Zealand,7,Mitchell Santner,26,17,27,0,2,152.94
+New Zealand Vs Pakistan,New Zealand,8,Tom Latham †,2,2,4,0,0,100.00
+New Zealand Vs Pakistan,Pakistan,1,Abdullah Shafique,4,9,8,1,0,44.44
+New Zealand Vs Pakistan,Pakistan,2,Fakhar Zaman,126,81,103,8,11,155.55
+New Zealand Vs Pakistan,Pakistan,3,Babar Azam (c),66,63,93,6,2,104.76
+Netherlands Vs Afghanistan,Netherlands,1,Wesley Barresi,1,4,3,0,0,25.00
+Netherlands Vs Afghanistan,Netherlands,2,Max O'Dowd,42,40,50,9,0,105.00
+Netherlands Vs Afghanistan,Netherlands,3,Colin Ackermann,29,35,71,4,0,82.85
+Netherlands Vs Afghanistan,Netherlands,4,Sybrand Engelbrecht,58,86,85,6,0,67.44
+Netherlands Vs Afghanistan,Netherlands,5,Scott Edwards (c)†,0,1,1,0,0,0.00
+Netherlands Vs Afghanistan,Netherlands,6,Bas de Leede,3,6,5,0,0,50.00
+Netherlands Vs Afghanistan,Netherlands,7,Saqib Zulfiqar,3,15,19,0,0,20.00
+Netherlands Vs Afghanistan,Netherlands,8,Logan van Beek,2,13,16,0,0,15.38
+Netherlands Vs Afghanistan,Netherlands,9,Roelof van der Merwe,11,33,36,0,0,33.33
+Netherlands Vs Afghanistan,Netherlands,10,Aryan Dutt,10,22,42,0,0,45.45
+Netherlands Vs Afghanistan,Netherlands,11,Paul van Meekeren,4,24,18,0,0,16.66
+Netherlands Vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,10,11,24,2,0,90.90
+Netherlands Vs Afghanistan,Afghanistan,2,Ibrahim Zadran,20,34,44,2,0,58.82
+Netherlands Vs Afghanistan,Afghanistan,3,Rahmat Shah,52,54,74,8,0,96.29
+Netherlands Vs Afghanistan,Afghanistan,4,Hashmatullah Shahidi (c),56,64,92,6,0,87.50
+Netherlands Vs Afghanistan,Afghanistan,5,Azmatullah Omarzai,31,28,38,3,0,110.71
+India Vs Sri Lanka,India,1,Rohit Sharma (c),4,2,2,1,0,200.00
+India Vs Sri Lanka,India,2,Shubman Gill,92,92,136,11,2,100.00
+India Vs Sri Lanka,India,3,Virat Kohli,88,94,139,11,0,93.61
+India Vs Sri Lanka,India,4,Shreyas Iyer,82,56,84,3,6,146.42
+India Vs Sri Lanka,India,5,KL Rahul †,21,19,34,2,0,110.52
+India Vs Sri Lanka,India,6,Suryakumar Yadav,12,9,13,2,0,133.33
+India Vs Sri Lanka,India,7,Ravindra Jadeja,35,24,41,1,1,145.83
+India Vs Sri Lanka,India,8,Mohammed Shami,2,4,11,0,0,50.00
+India Vs Sri Lanka,India,9,Jasprit Bumrah,1,1,1,0,0,100.00
+India Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,0,1,2,0,0,0.00
+India Vs Sri Lanka,Sri Lanka,2,Dimuth Karunaratne,0,1,10,0,0,0.00
+India Vs Sri Lanka,Sri Lanka,3,Kusal Mendis (c)†,1,10,21,0,0,10.00
+India Vs Sri Lanka,Sri Lanka,4,Sadeera Samarawickrama,0,4,4,0,0,0.00
+India Vs Sri Lanka,Sri Lanka,5,Charith Asalanka,1,24,42,0,0,4.16
+India Vs Sri Lanka,Sri Lanka,6,Angelo Mathews,12,25,55,1,0,48.00
+India Vs Sri Lanka,Sri Lanka,7,Dushan Hemantha,0,1,1,0,0,0.00
+India Vs Sri Lanka,Sri Lanka,8,Dushmantha Chameera,0,6,10,0,0,0.00
+India Vs Sri Lanka,Sri Lanka,9,Maheesh Theekshana,12,23,37,2,0,52.17
+India Vs Sri Lanka,Sri Lanka,10,Kasun Rajitha,14,17,20,2,0,82.35
+India Vs Sri Lanka,Sri Lanka,11,Dilshan Madushanka,5,6,4,1,0,83.33
+South Africa Vs New Zealand,South Africa,1,Quinton de Kock †,114,116,176,10,3,98.27
+South Africa Vs New Zealand,South Africa,2,Temba Bavuma (c),24,28,37,4,1,85.71
+South Africa Vs New Zealand,South Africa,3,Rassie van der Dussen,133,118,172,9,5,112.71
+South Africa Vs New Zealand,South Africa,4,David Miller,53,30,48,2,4,176.66
+South Africa Vs New Zealand,South Africa,5,Heinrich Klaasen,15,7,13,1,1,214.28
+South Africa Vs New Zealand,South Africa,6,Aiden Markram,6,1,1,0,1,600.00
+South Africa Vs New Zealand,New Zealand,1,Devon Conway,2,6,13,0,0,33.33
+South Africa Vs New Zealand,New Zealand,2,Will Young,33,37,50,5,0,89.18
+South Africa Vs New Zealand,New Zealand,3,Rachin Ravindra,9,16,28,1,0,56.25
+South Africa Vs New Zealand,New Zealand,4,Daryl Mitchell,24,30,40,4,0,80.00
+South Africa Vs New Zealand,New Zealand,5,Tom Latham (c)†,4,15,18,0,0,26.66
+South Africa Vs New Zealand,New Zealand,6,Glenn Phillips,60,50,87,4,4,120.00
+South Africa Vs New Zealand,New Zealand,7,Mitchell Santner,7,18,14,1,0,38.88
+South Africa Vs New Zealand,New Zealand,8,Tim Southee,7,11,11,1,0,63.63
+South Africa Vs New Zealand,New Zealand,9,James Neesham,0,8,6,0,0,0.00
+South Africa Vs New Zealand,New Zealand,10,Trent Boult,9,14,17,1,0,64.28
+South Africa Vs New Zealand,New Zealand,11,Matt Henry,0,9,20,0,0,0.00
+Bangladesh Vs Pakistan,Bangladesh,1,Tanzid Hasan,0,5,7,0,0,0.00
+Bangladesh Vs Pakistan,Bangladesh,2,Litton Das,45,64,100,6,0,70.31
+Bangladesh Vs Pakistan,Bangladesh,3,Najmul Hossain Shanto,4,3,8,1,0,133.33
+Bangladesh Vs Pakistan,Bangladesh,4,Mushfiqur Rahim †,5,8,18,1,0,62.50
+Bangladesh Vs Pakistan,Bangladesh,5,Mahmudullah,56,70,108,6,1,80.00
+Bangladesh Vs Pakistan,Bangladesh,6,Shakib Al Hasan (c),43,64,82,4,0,67.18
+Bangladesh Vs Pakistan,Bangladesh,7,Towhid Hridoy,7,3,9,0,1,233.33
+Bangladesh Vs Pakistan,Bangladesh,8,Mehidy Hasan Miraz,25,30,50,1,1,83.33
+Bangladesh Vs Pakistan,Bangladesh,9,Taskin Ahmed,6,13,20,0,0,46.15
+Bangladesh Vs Pakistan,Bangladesh,10,Mustafizur Rahman,3,7,11,0,0,42.85
+Bangladesh Vs Pakistan,Bangladesh,11,Shoriful Islam,1,4,8,0,0,25.00
+Bangladesh Vs Pakistan,Pakistan,1,Abdullah Shafique,68,69,94,9,2,98.55
+Bangladesh Vs Pakistan,Pakistan,2,Fakhar Zaman,81,74,126,3,7,109.45
+Bangladesh Vs Pakistan,Pakistan,3,Babar Azam (c),9,16,20,1,0,56.25
+Bangladesh Vs Pakistan,Pakistan,4,Mohammad Rizwan †,26,21,27,4,0,123.80
+Bangladesh Vs Pakistan,Pakistan,5,Iftikhar Ahmed,17,15,17,2,0,113.33
+Sri Lanka Vs Afghanistan,Sri Lanka,1,Pathum Nissanka,46,60,82,5,0,76.66
+Sri Lanka Vs Afghanistan,Sri Lanka,2,Dimuth Karunaratne,15,21,25,1,0,71.42
+Sri Lanka Vs Afghanistan,Sri Lanka,3,Kusal Mendis (c)†,39,50,91,3,0,78.00
+Sri Lanka Vs Afghanistan,Sri Lanka,4,Sadeera Samarawickrama,36,40,42,3,0,90.00
+Sri Lanka Vs Afghanistan,Sri Lanka,5,Charith Asalanka,22,28,48,2,0,78.57
+Sri Lanka Vs Afghanistan,Sri Lanka,6,Dhananjaya de Silva,14,26,24,1,0,53.84
+Sri Lanka Vs Afghanistan,Sri Lanka,7,Angelo Mathews,23,26,61,1,1,88.46
+Sri Lanka Vs Afghanistan,Sri Lanka,8,Dushmantha Chameera,1,4,5,0,0,25.00
+Sri Lanka Vs Afghanistan,Sri Lanka,9,Maheesh Theekshana,29,31,31,3,1,93.54
+Sri Lanka Vs Afghanistan,Sri Lanka,10,Kasun Rajitha,5,7,14,0,0,71.42
+Sri Lanka Vs Afghanistan,Sri Lanka,11,Dilshan Madushanka,0,4,5,0,0,0.00
+Sri Lanka Vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,0,4,2,0,0,0.00
+Sri Lanka Vs Afghanistan,Afghanistan,2,Ibrahim Zadran,39,57,73,4,1,68.42
+Sri Lanka Vs Afghanistan,Afghanistan,3,Rahmat Shah,62,74,121,7,0,83.78
+Sri Lanka Vs Afghanistan,Afghanistan,4,Hashmatullah Shahidi (c),58,74,132,2,1,78.37
+Sri Lanka Vs Afghanistan,Afghanistan,5,Azmatullah Omarzai,73,63,80,6,3,115.87
+India Vs England,India,1,Rohit Sharma (c),87,101,162,10,3,86.13
+India Vs England,India,2,Shubman Gill,9,13,18,1,0,69.23
+India Vs England,India,3,Virat Kohli,0,9,12,0,0,0.00
+India Vs England,India,4,Shreyas Iyer,4,16,21,0,0,25.00
+India Vs England,India,5,KL Rahul †,39,58,77,3,0,67.24
+India Vs England,India,6,Suryakumar Yadav,49,47,75,4,1,104.25
+India Vs England,India,7,Ravindra Jadeja,8,13,14,0,0,61.53
+India Vs England,India,8,Mohammed Shami,1,5,4,0,0,20.00
+India Vs England,India,9,Jasprit Bumrah,16,25,44,1,0,64.00
+India Vs England,India,10,Kuldeep Yadav,9,13,18,1,0,69.23
+India Vs England,England,1,Jonny Bairstow,14,23,53,2,0,60.86
+India Vs England,England,2,Dawid Malan,16,17,25,2,1,94.11
+India Vs England,England,3,Joe Root,0,1,2,0,0,0.00
+India Vs England,England,4,Ben Stokes,0,10,14,0,0,0.00
+India Vs England,England,5,Jos Buttler (c)†,10,23,33,1,0,43.47
+India Vs England,England,6,Moeen Ali,15,31,55,0,0,48.38
+India Vs England,England,7,Liam Livingstone,27,46,56,2,0,58.69
+India Vs England,England,8,Chris Woakes,10,20,21,1,0,50.00
+India Vs England,England,9,David Willey,16,17,29,0,2,94.11
+India Vs England,England,10,Adil Rashid,13,20,19,2,0,65.00
+India Vs England,England,11,Mark Wood,0,1,3,0,0,0.00
+Netherlands Vs Bangladesh,Netherlands,1,Vikramjit Singh,3,9,7,0,0,33.33
+Netherlands Vs Bangladesh,Netherlands,2,Max O'Dowd,0,3,11,0,0,0.00
+Netherlands Vs Bangladesh,Netherlands,3,Wesley Barresi,41,41,49,8,0,100.00
+Netherlands Vs Bangladesh,Netherlands,4,Colin Ackermann,15,33,50,1,0,45.45
+Netherlands Vs Bangladesh,Netherlands,5,Scott Edwards (c)†,68,89,122,6,0,76.40
+Netherlands Vs Bangladesh,Netherlands,6,Bas de Leede,17,32,49,2,0,53.12
+Netherlands Vs Bangladesh,Netherlands,7,Sybrand Engelbrecht,35,61,72,3,0,57.37
+Netherlands Vs Bangladesh,Netherlands,8,Logan van Beek,23,16,33,2,1,143.75
+Netherlands Vs Bangladesh,Netherlands,9,Shariz Ahmad,6,8,13,0,0,75.00
+Netherlands Vs Bangladesh,Netherlands,10,Aryan Dutt,9,6,7,0,1,150.00
+Netherlands Vs Bangladesh,Netherlands,11,Paul van Meekeren,0,2,6,0,0,0.00
+Netherlands Vs Bangladesh,Bangladesh,1,Litton Das,3,12,20,0,0,25.00
+Netherlands Vs Bangladesh,Bangladesh,2,Tanzid Hasan,15,16,25,3,0,93.75
+Netherlands Vs Bangladesh,Bangladesh,3,Mehidy Hasan Miraz,35,40,51,5,1,87.50
+Netherlands Vs Bangladesh,Bangladesh,4,Najmul Hossain Shanto,9,18,27,2,0,50.00
+Netherlands Vs Bangladesh,Bangladesh,5,Shakib Al Hasan (c),5,14,14,0,0,35.71
+Netherlands Vs Bangladesh,Bangladesh,6,Mushfiqur Rahim †,1,5,9,0,0,20.00
+Netherlands Vs Bangladesh,Bangladesh,7,Mahmudullah,20,41,70,2,0,48.78
+Netherlands Vs Bangladesh,Bangladesh,8,Mahedi Hasan,17,38,51,1,0,44.73
+Netherlands Vs Bangladesh,Bangladesh,9,Taskin Ahmed,11,35,49,1,0,31.42
+Netherlands Vs Bangladesh,Bangladesh,10,Mustafizur Rahman,20,35,34,2,1,57.14
+Netherlands Vs Bangladesh,Bangladesh,11,Shoriful Islam,0,0,1,0,0,-
+Australia Vs New Zealand,Australia,1,David Warner,81,65,77,5,6,124.61
+Australia Vs New Zealand,Australia,2,Travis Head,109,67,94,10,7,162.68
+Australia Vs New Zealand,Australia,3,Mitchell Marsh,36,51,65,2,0,70.58
+Australia Vs New Zealand,Australia,4,Steven Smith,18,17,19,2,0,105.88
+Australia Vs New Zealand,Australia,5,Marnus Labuschagne,18,26,36,2,0,69.23
+Australia Vs New Zealand,Australia,6,Glenn Maxwell,41,24,37,5,2,170.83
+Australia Vs New Zealand,Australia,7,Josh Inglis †,38,28,48,4,1,135.71
+Australia Vs New Zealand,Australia,8,Pat Cummins (c),37,14,23,2,4,264.28
+Australia Vs New Zealand,Australia,9,Mitchell Starc,1,3,7,0,0,33.33
+Australia Vs New Zealand,Australia,10,Adam Zampa,0,3,2,0,0,0.00
+Australia Vs New Zealand,Australia,11,Josh Hazlewood,0,0,1,0,0,-
+Australia Vs New Zealand,New Zealand,1,Devon Conway,28,17,35,6,0,164.70
+Australia Vs New Zealand,New Zealand,2,Will Young,32,37,44,4,1,86.48
+Australia Vs New Zealand,New Zealand,3,Rachin Ravindra,116,89,137,9,5,130.33
+Australia Vs New Zealand,New Zealand,4,Daryl Mitchell,54,51,59,6,1,105.88
+Australia Vs New Zealand,New Zealand,5,Tom Latham (c)†,21,22,29,2,0,95.45
+Australia Vs New Zealand,New Zealand,6,Glenn Phillips,12,16,21,1,0,75.00
+Australia Vs New Zealand,New Zealand,7,James Neesham,58,39,64,3,3,148.71
+Australia Vs New Zealand,New Zealand,8,Mitchell Santner,17,12,13,1,1,141.66
+Australia Vs New Zealand,New Zealand,9,Matt Henry,9,8,14,1,0,112.50
+Australia Vs New Zealand,New Zealand,10,Trent Boult,10,8,21,0,1,125.00
+Australia Vs New Zealand,New Zealand,11,Lockie Ferguson,0,1,1,0,0,0.00
+Pakistan Vs South Africa,Pakistan,1,Abdullah Shafique,9,17,21,1,0,52.94
+Pakistan Vs South Africa,Pakistan,2,Imam-ul-Haq,12,18,35,2,0,66.66
+Pakistan Vs South Africa,Pakistan,3,Babar Azam (c),50,65,100,4,1,76.92
+Pakistan Vs South Africa,Pakistan,4,Mohammad Rizwan †,31,27,35,4,1,114.81
+Pakistan Vs South Africa,Pakistan,5,Iftikhar Ahmed,21,31,38,1,1,67.74
+Pakistan Vs South Africa,Pakistan,6,Saud Shakeel,52,52,81,7,0,100.00
+Pakistan Vs South Africa,Pakistan,7,Shadab Khan,43,36,53,3,2,119.44
+Pakistan Vs South Africa,Pakistan,8,Mohammad Nawaz,24,24,32,1,2,100.00
+Pakistan Vs South Africa,Pakistan,9,Shaheen Shah Afridi,2,4,10,0,0,50.00
+Pakistan Vs South Africa,Pakistan,10,Mohammad Wasim,7,9,13,0,1,77.77
+Pakistan Vs South Africa,Pakistan,11,Haris Rauf,0,1,5,0,0,0.00
+Pakistan Vs South Africa,South Africa,1,Temba Bavuma (c),28,27,49,4,1,103.70
+Pakistan Vs South Africa,South Africa,2,Quinton de Kock †,24,14,19,5,0,171.42
+Pakistan Vs South Africa,South Africa,3,Rassie van der Dussen,21,39,71,0,0,53.84
+Pakistan Vs South Africa,South Africa,4,Aiden Markram,91,93,151,7,3,97.84
+Pakistan Vs South Africa,South Africa,5,Heinrich Klaasen,12,10,12,0,1,120.00
+Pakistan Vs South Africa,South Africa,6,David Miller,29,33,55,2,2,87.87
+Pakistan Vs South Africa,South Africa,7,Marco Jansen,20,14,18,2,1,142.85
+Pakistan Vs South Africa,South Africa,8,Gerald Coetzee,10,13,23,0,0,76.92
+Pakistan Vs South Africa,South Africa,9,Keshav Maharaj,7,21,44,1,0,33.33
+Pakistan Vs South Africa,South Africa,10,Lungi Ngidi,4,14,24,0,0,28.57
+Pakistan Vs South Africa,South Africa,11,Tabraiz Shamsi,4,6,14,0,0,66.66
+England Vs Sri Lanka,England,1,Jonny Bairstow,30,31,64,3,0,96.77
+England Vs Sri Lanka,England,2,Dawid Malan,28,25,32,6,0,112.00
+England Vs Sri Lanka,England,3,Joe Root,3,10,14,0,0,30.00
+England Vs Sri Lanka,England,4,Ben Stokes,43,73,98,6,0,58.90
+England Vs Sri Lanka,England,5,Jos Buttler (c)†,8,6,6,1,0,133.33
+England Vs Sri Lanka,England,6,Liam Livingstone,1,6,9,0,0,16.66
+England Vs Sri Lanka,England,7,Moeen Ali,15,15,33,1,0,100.00
+England Vs Sri Lanka,England,8,Chris Woakes,0,4,8,0,0,0.00
+England Vs Sri Lanka,England,9,David Willey,14,17,34,1,1,82.35
+England Vs Sri Lanka,England,10,Adil Rashid,2,7,7,0,0,28.57
+England Vs Sri Lanka,England,11,Mark Wood,5,6,6,1,0,83.33
+England Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,77,83,110,7,2,92.77
+England Vs Sri Lanka,Sri Lanka,2,Kusal Perera,4,5,8,1,0,80.00
+England Vs Sri Lanka,Sri Lanka,3,Kusal Mendis (c)†,11,12,15,2,0,91.66
+England Vs Sri Lanka,Sri Lanka,4,Sadeera Samarawickrama,65,54,84,7,1,120.37
+Australia Vs Netherlands,Australia,1,Mitchell Marsh,9,15,15,2,0,60.00
+Australia Vs Netherlands,Australia,2,David Warner,104,93,182,11,3,111.82
+Australia Vs Netherlands,Australia,3,Steven Smith,71,68,88,9,1,104.41
+Australia Vs Netherlands,Australia,4,Marnus Labuschagne,62,47,60,7,2,131.91
+Australia Vs Netherlands,Australia,5,Josh Inglis †,14,12,12,1,1,116.66
+Australia Vs Netherlands,Australia,6,Glenn Maxwell,106,44,53,9,8,240.90
+Australia Vs Netherlands,Australia,7,Cameron Green,8,11,15,1,0,72.72
+Australia Vs Netherlands,Australia,8,Pat Cummins (c),12,9,39,2,0,133.33
+Australia Vs Netherlands,Australia,9,Mitchell Starc,0,1,1,0,0,0.00
+Australia Vs Netherlands,Australia,10,Adam Zampa,1,1,2,0,0,100.00
+Australia Vs Netherlands,Netherlands,1,Vikramjit Singh,25,25,28,6,0,100.00
+Australia Vs Netherlands,Netherlands,2,Max O'Dowd,6,9,21,1,0,66.66
+Australia Vs Netherlands,Netherlands,3,Colin Ackermann,10,11,21,2,0,90.90
+Australia Vs Netherlands,Netherlands,4,Sybrand Engelbrecht,11,21,36,1,0,52.38
+Australia Vs Netherlands,Netherlands,5,Bas de Leede,4,7,7,1,0,57.14
+Australia Vs Netherlands,Netherlands,6,Scott Edwards (c)†,12,22,53,0,0,54.54
+Australia Vs Netherlands,Netherlands,7,Teja Nidamanuru,14,18,19,2,0,77.77
+Australia Vs Netherlands,Netherlands,8,Logan van Beek,0,3,3,0,0,0.00
+Australia Vs Netherlands,Netherlands,9,Roelof van der Merwe,0,1,1,0,0,0.00
+Australia Vs Netherlands,Netherlands,10,Aryan Dutt,1,8,9,0,0,12.50
+Australia Vs Netherlands,Netherlands,11,Paul van Meekeren,0,1,2,0,0,0.00
+South Africa Vs Bangladesh,South Africa,1,Quinton de Kock †,174,140,192,15,7,124.28
+South Africa Vs Bangladesh,South Africa,2,Reeza Hendricks,12,19,24,1,0,63.15
+South Africa Vs Bangladesh,South Africa,3,Rassie van der Dussen,1,7,6,0,0,14.28
+South Africa Vs Bangladesh,South Africa,4,Aiden Markram (c),60,69,84,7,0,86.95
+South Africa Vs Bangladesh,South Africa,5,Heinrich Klaasen,90,49,94,2,8,183.67
+South Africa Vs Bangladesh,South Africa,6,David Miller,34,15,26,1,4,226.66
+South Africa Vs Bangladesh,South Africa,7,Marco Jansen,1,1,3,0,0,100.00
+South Africa Vs Bangladesh,Bangladesh,1,Tanzid Hasan,12,17,30,1,0,70.58
+South Africa Vs Bangladesh,Bangladesh,2,Litton Das,22,44,78,3,1,50.00
+South Africa Vs Bangladesh,Bangladesh,3,Najmul Hossain Shanto,0,1,1,0,0,0.00
+South Africa Vs Bangladesh,Bangladesh,4,Shakib Al Hasan (c),1,4,4,0,0,25.00
+South Africa Vs Bangladesh,Bangladesh,5,Mushfiqur Rahim †,8,17,24,1,0,47.05
+South Africa Vs Bangladesh,Bangladesh,6,Mahmudullah,111,111,150,11,4,100.00
+South Africa Vs Bangladesh,Bangladesh,7,Mehidy Hasan Miraz,11,19,26,1,0,57.89
+South Africa Vs Bangladesh,Bangladesh,8,Nasum Ahmed,19,19,27,3,0,100.00
+South Africa Vs Bangladesh,Bangladesh,9,Hasan Mahmud,15,25,32,2,0,60.00
+South Africa Vs Bangladesh,Bangladesh,10,Mustafizur Rahman,11,21,51,2,0,52.38
+South Africa Vs Bangladesh,Bangladesh,11,Shoriful Islam,6,4,4,1,0,150.00
+Pakistan Vs Afghanistan,Pakistan,1,Abdullah Shafique,58,75,89,5,2,77.33
+Pakistan Vs Afghanistan,Pakistan,2,Imam-ul-Haq,17,22,44,2,0,77.27
+Pakistan Vs Afghanistan,Pakistan,3,Babar Azam (c),74,92,121,4,1,80.43
+Pakistan Vs Afghanistan,Pakistan,4,Mohammad Rizwan †,8,10,8,0,1,80.00
+Pakistan Vs Afghanistan,Pakistan,5,Saud Shakeel,25,34,35,3,0,73.52
+Pakistan Vs Afghanistan,Pakistan,6,Shadab Khan,40,38,75,1,1,105.26
+Pakistan Vs Afghanistan,Pakistan,7,Iftikhar Ahmed,40,27,40,2,4,148.14
+Pakistan Vs Afghanistan,Pakistan,8,Shaheen Shah Afridi,3,3,4,0,0,100.00
+Pakistan Vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,65,53,91,9,1,122.64
+Pakistan Vs Afghanistan,Afghanistan,2,Ibrahim Zadran,87,113,146,10,0,76.99
+Pakistan Vs Afghanistan,Afghanistan,3,Rahmat Shah,77,84,129,5,2,91.66
+Pakistan Vs Afghanistan,Afghanistan,4,Hashmatullah Shahidi (c),48,45,74,4,0,106.66
+New Zealand Vs India,New Zealand,1,Devon Conway,0,9,16,0,0,0.00
+New Zealand Vs India,New Zealand,2,Will Young,17,27,41,3,0,62.96
+New Zealand Vs India,New Zealand,3,Rachin Ravindra,75,87,133,6,1,86.20
+New Zealand Vs India,New Zealand,4,Daryl Mitchell,130,127,192,9,5,102.36
+New Zealand Vs India,New Zealand,5,Tom Latham (c)†,5,7,16,1,0,71.42
+New Zealand Vs India,New Zealand,6,Glenn Phillips,23,26,36,0,1,88.46
+New Zealand Vs India,New Zealand,7,Mark Chapman,6,8,11,0,0,75.00
+New Zealand Vs India,New Zealand,8,Mitchell Santner,1,2,3,0,0,50.00
+New Zealand Vs India,New Zealand,9,Matt Henry,0,1,1,0,0,0.00
+New Zealand Vs India,New Zealand,10,Lockie Ferguson,1,5,12,0,0,20.00
+New Zealand Vs India,New Zealand,11,Trent Boult,0,1,1,0,0,0.00
+New Zealand Vs India,India,1,Rohit Sharma (c),46,40,44,4,4,115.00
+New Zealand Vs India,India,2,Shubman Gill,26,31,53,5,0,83.87
+New Zealand Vs India,India,3,Virat Kohli,95,104,154,8,2,91.34
+New Zealand Vs India,India,4,Shreyas Iyer,33,29,32,6,0,113.79
+New Zealand Vs India,India,5,KL Rahul †,27,35,43,3,0,77.14
+New Zealand Vs India,India,6,Suryakumar Yadav,2,4,8,0,0,50.00
+New Zealand Vs India,India,7,Ravindra Jadeja,39,44,63,3,1,88.63
+New Zealand Vs India,India,8,Mohammed Shami,1,1,2,0,0,100.00
+South Africa Vs England,South Africa,1,Quinton de Kock †,4,2,3,1,0,200.00
+South Africa Vs England,South Africa,2,Reeza Hendricks,85,75,111,9,3,113.33
+South Africa Vs England,South Africa,3,Rassie van der Dussen,60,61,86,8,0,98.36
+South Africa Vs England,South Africa,4,Aiden Markram (c),42,44,63,4,0,95.45
+South Africa Vs England,South Africa,5,Heinrich Klaasen,109,67,119,12,4,162.68
+South Africa Vs England,South Africa,6,David Miller,5,6,7,1,0,83.33
+South Africa Vs England,South Africa,7,Marco Jansen,75,42,72,3,6,178.57
+South Africa Vs England,South Africa,8,Gerald Coetzee,3,3,2,0,0,100.00
+South Africa Vs England,South Africa,9,Keshav Maharaj,1,1,1,0,0,100.00
+South Africa Vs England,England,1,Jonny Bairstow,10,12,13,1,1,83.33
+South Africa Vs England,England,2,Dawid Malan,6,11,30,1,0,54.54
+South Africa Vs England,England,3,Joe Root,2,6,9,0,0,33.33
+South Africa Vs England,England,4,Ben Stokes,5,8,20,1,0,62.50
+South Africa Vs England,England,5,Harry Brook,17,25,33,2,1,68.00
+South Africa Vs England,England,6,Jos Buttler (c)†,15,7,14,2,1,214.28
+South Africa Vs England,England,7,David Willey,12,12,24,1,1,100.00
+South Africa Vs England,England,8,Adil Rashid,10,14,14,1,0,71.42
+South Africa Vs England,England,9,Gus Atkinson,35,21,31,7,0,166.66
+South Africa Vs England,England,10,Mark Wood,43,17,25,2,5,252.94
+South Africa Vs England,England,11,Reece Topley,-,-,-,-,-,-
+Netherlands Vs Sri Lanka,Netherlands,1,Vikramjit Singh,4,13,17,1,0,30.76
+Netherlands Vs Sri Lanka,Netherlands,2,Max O'Dowd,16,27,50,1,1,59.25
+Netherlands Vs Sri Lanka,Netherlands,3,Colin Ackermann,29,31,42,5,0,93.54
+Netherlands Vs Sri Lanka,Netherlands,4,Bas de Leede,6,21,33,0,0,28.57
+Netherlands Vs Sri Lanka,Netherlands,5,Teja Nidamanuru,9,16,32,0,0,56.25
+Netherlands Vs Sri Lanka,Netherlands,6,Scott Edwards (c)†,16,16,22,0,0,100.00
+Netherlands Vs Sri Lanka,Netherlands,7,Sybrand Engelbrecht,70,82,100,4,1,85.36
+Netherlands Vs Sri Lanka,Netherlands,8,Logan van Beek,59,75,108,1,1,78.66
+Netherlands Vs Sri Lanka,Netherlands,9,Roelof van der Merwe,7,7,12,0,0,100.00
+Netherlands Vs Sri Lanka,Netherlands,10,Aryan Dutt,9,6,14,1,0,150.00
+Netherlands Vs Sri Lanka,Netherlands,11,Paul van Meekeren,4,5,6,0,0,80.00
+Netherlands Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,54,52,69,9,0,103.84
+Netherlands Vs Sri Lanka,Sri Lanka,2,Kusal Perera,5,8,17,1,0,62.50
+Netherlands Vs Sri Lanka,Sri Lanka,3,Kusal Mendis (c)†,11,17,22,2,0,64.70
+Netherlands Vs Sri Lanka,Sri Lanka,4,Sadeera Samarawickrama,91,107,168,7,0,85.04
+Netherlands Vs Sri Lanka,Sri Lanka,5,Charith Asalanka,44,66,70,2,1,66.66
+Netherlands Vs Sri Lanka,Sri Lanka,6,Dhananjaya de Silva,30,37,57,1,2,81.08
+Netherlands Vs Sri Lanka,Sri Lanka,7,Dushan Hemantha,4,3,7,1,0,133.33
+Australia Vs Pakistan,Australia,1,David Warner,163,124,180,14,9,131.45
+Australia Vs Pakistan,Australia,2,Mitchell Marsh,121,108,139,10,9,112.03
+Australia Vs Pakistan,Australia,3,Glenn Maxwell,0,1,1,0,0,0.00
+Australia Vs Pakistan,Australia,4,Steven Smith,7,9,17,0,0,77.77
+Australia Vs Pakistan,Australia,5,Marcus Stoinis,21,24,46,1,1,87.50
+Australia Vs Pakistan,Australia,6,Josh Inglis †,13,9,10,3,0,144.44
+Australia Vs Pakistan,Australia,7,Marnus Labuschagne,8,12,23,1,0,66.66
+Australia Vs Pakistan,Australia,8,Pat Cummins (c),6,8,17,0,0,75.00
+Australia Vs Pakistan,Australia,9,Mitchell Starc,2,3,3,0,0,66.66
+Australia Vs Pakistan,Australia,10,Josh Hazlewood,0,1,1,0,0,0.00
+Australia Vs Pakistan,Australia,11,Adam Zampa,1,1,4,0,0,100.00
+Australia Vs Pakistan,Pakistan,1,Abdullah Shafique,64,61,93,7,2,104.91
+Australia Vs Pakistan,Pakistan,2,Imam-ul-Haq,70,71,107,10,0,98.59
+Australia Vs Pakistan,Pakistan,3,Babar Azam (c),18,14,27,3,0,128.57
+Australia Vs Pakistan,Pakistan,4,Mohammad Rizwan †,46,40,84,5,0,115.00
+Australia Vs Pakistan,Pakistan,5,Saud Shakeel,30,31,37,5,0,96.77
+Australia Vs Pakistan,Pakistan,6,Iftikhar Ahmed,26,20,22,0,3,130.00
+Australia Vs Pakistan,Pakistan,7,Mohammad Nawaz,14,16,19,0,1,87.50
+Australia Vs Pakistan,Pakistan,8,Usama Mir,0,3,4,0,0,0.00
+Australia Vs Pakistan,Pakistan,9,Shaheen Shah Afridi,10,8,17,2,0,125.00
+Australia Vs Pakistan,Pakistan,10,Hasan Ali,8,8,7,2,0,100.00
+Australia Vs Pakistan,Pakistan,11,Haris Rauf,0,1,3,0,0,0.00
+Bangladesh Vs India,Bangladesh,1,Tanzid Hasan,51,43,75,5,3,118.60
+Bangladesh Vs India,Bangladesh,2,Litton Das,66,82,124,7,0,80.48
+Bangladesh Vs India,Bangladesh,3,Najmul Hossain Shanto (c),8,17,18,0,0,47.05
+Bangladesh Vs India,Bangladesh,4,Mehidy Hasan Miraz,3,13,15,0,0,23.07
+Bangladesh Vs India,Bangladesh,5,Towhid Hridoy,16,35,54,0,0,45.71
+Bangladesh Vs India,Bangladesh,6,Mushfiqur Rahim †,38,46,60,1,1,82.60
+Bangladesh Vs India,Bangladesh,7,Mahmudullah,46,36,60,3,3,127.77
+Bangladesh Vs India,Bangladesh,8,Nasum Ahmed,14,18,21,2,0,77.77
+Bangladesh Vs India,Bangladesh,9,Mustafizur Rahman,1,7,19,0,0,14.28
+Bangladesh Vs India,Bangladesh,10,Shoriful Islam,7,3,2,0,1,233.33
+Bangladesh Vs India,India,1,Rohit Sharma (c),48,40,51,7,2,120.00
+Bangladesh Vs India,India,2,Shubman Gill,53,55,80,5,2,96.36
+Bangladesh Vs India,India,3,Virat Kohli,103,97,113,6,4,106.18
+Bangladesh Vs India,India,4,Shreyas Iyer,19,25,38,2,0,76.00
+Bangladesh Vs India,India,5,KL Rahul †,34,34,44,3,1,100.00
+New Zealand Vs Afghanistan,New Zealand,1,Devon Conway,20,18,27,3,0,111.11
+New Zealand Vs Afghanistan,New Zealand,2,Will Young,54,64,98,4,3,84.37
+New Zealand Vs Afghanistan,New Zealand,3,Rachin Ravindra,32,41,64,2,1,78.04
+New Zealand Vs Afghanistan,New Zealand,4,Daryl Mitchell,1,7,6,0,0,14.28
+New Zealand Vs Afghanistan,New Zealand,5,Tom Latham (c)†,68,74,114,3,2,91.89
+New Zealand Vs Afghanistan,New Zealand,6,Glenn Phillips,71,80,109,4,4,88.75
+New Zealand Vs Afghanistan,New Zealand,7,Mark Chapman,25,12,15,2,1,208.33
+New Zealand Vs Afghanistan,New Zealand,8,Mitchell Santner,7,5,13,1,0,140.00
+New Zealand Vs Afghanistan,Afghanistan,1,Rahmanullah Gurbaz,11,21,24,0,1,52.38
+New Zealand Vs Afghanistan,Afghanistan,2,Ibrahim Zadran,14,15,27,2,0,93.33
+New Zealand Vs Afghanistan,Afghanistan,3,Rahmat Shah,36,62,86,1,0,58.06
+New Zealand Vs Afghanistan,Afghanistan,4,Hashmatullah Shahidi (c),8,29,30,1,0,27.58
+New Zealand Vs Afghanistan,Afghanistan,5,Azmatullah Omarzai,27,32,39,2,0,84.37
+New Zealand Vs Afghanistan,Afghanistan,6,Ikram Alikhil †,19,21,42,3,0,90.47
+New Zealand Vs Afghanistan,Afghanistan,7,Mohammad Nabi,7,9,10,1,0,77.77
+New Zealand Vs Afghanistan,Afghanistan,8,Rashid Khan,8,13,10,0,1,61.53
+New Zealand Vs Afghanistan,Afghanistan,9,Mujeeb Ur Rahman,4,3,2,1,0,133.33
+New Zealand Vs Afghanistan,Afghanistan,10,Naveen-ul-Haq,0,1,1,0,0,0.00
+New Zealand Vs Afghanistan,Afghanistan,11,Fazalhaq Farooqi,0,2,1,0,0,0.00
+Netherlands Vs South Africa,Netherlands,1,Vikramjit Singh,2,16,28,0,0,12.50
+Netherlands Vs South Africa,Netherlands,2,Max O'Dowd,18,25,33,4,0,72.00
+Netherlands Vs South Africa,Netherlands,3,Colin Ackermann,12,25,40,1,0,48.00
+Netherlands Vs South Africa,Netherlands,4,Bas de Leede,2,7,16,0,0,28.57
+Netherlands Vs South Africa,Netherlands,5,Sybrand Engelbrecht,19,37,41,1,1,51.35
+Netherlands Vs South Africa,Netherlands,6,Teja Nidamanuru,20,25,56,3,0,80.00
+Netherlands Vs South Africa,Netherlands,7,Scott Edwards (c)†,78,69,102,10,1,113.04
+Netherlands Vs South Africa,Netherlands,8,Logan van Beek,10,27,22,1,0,37.03
+Netherlands Vs South Africa,Netherlands,9,Roelof van der Merwe,29,19,30,3,1,152.63
+Netherlands Vs South Africa,Netherlands,10,Aryan Dutt,23,9,14,0,3,255.55
+Netherlands Vs South Africa,South Africa,1,Temba Bavuma (c),16,31,35,2,1,51.61
+Netherlands Vs South Africa,South Africa,2,Quinton de Kock †,20,22,28,3,0,90.90
+Netherlands Vs South Africa,South Africa,3,Rassie van der Dussen,4,7,16,0,0,57.14
+Netherlands Vs South Africa,South Africa,4,Aiden Markram,1,3,4,0,0,33.33
+Netherlands Vs South Africa,South Africa,5,Heinrich Klaasen,28,28,36,4,0,100.00
+Netherlands Vs South Africa,South Africa,6,David Miller,43,52,81,4,1,82.69
+Netherlands Vs South Africa,South Africa,7,Marco Jansen,9,25,22,0,0,36.00
+Netherlands Vs South Africa,South Africa,8,Gerald Coetzee,22,23,33,2,1,95.65
+Netherlands Vs South Africa,South Africa,9,Keshav Maharaj,40,37,54,5,1,108.10
+Netherlands Vs South Africa,South Africa,10,Kagiso Rabada,9,6,9,0,1,150.00
+Netherlands Vs South Africa,South Africa,11,Lungi Ngidi,7,24,35,0,0,29.16
+Sri Lanka Vs Australia,Sri Lanka,1,Pathum Nissanka,61,67,103,8,0,91.04
+Sri Lanka Vs Australia,Sri Lanka,2,Kusal Perera,78,82,123,12,0,95.12
+Sri Lanka Vs Australia,Sri Lanka,3,Kusal Mendis (c)†,9,13,27,0,0,69.23
+Sri Lanka Vs Australia,Sri Lanka,4,Sadeera Samarawickrama,8,8,15,1,0,100.00
+Sri Lanka Vs Australia,Sri Lanka,5,Charith Asalanka,25,39,75,0,1,64.10
+Sri Lanka Vs Australia,Sri Lanka,6,Dhananjaya de Silva,7,13,13,1,0,53.84
+Sri Lanka Vs Australia,Sri Lanka,7,Dunith Wellalage,2,9,9,0,0,22.22
+Sri Lanka Vs Australia,Sri Lanka,8,Chamika Karunaratne,2,11,12,0,0,18.18
+Sri Lanka Vs Australia,Sri Lanka,9,Maheesh Theekshana,0,5,7,0,0,0.00
+Sri Lanka Vs Australia,Sri Lanka,10,Lahiru Kumara,4,8,6,1,0,50.00
+Sri Lanka Vs Australia,Sri Lanka,11,Dilshan Madushanka,0,6,12,0,0,0.00
+Sri Lanka Vs Australia,Australia,1,Mitchell Marsh,52,51,67,9,0,101.96
+Sri Lanka Vs Australia,Australia,2,David Warner,11,6,16,0,1,183.33
+Sri Lanka Vs Australia,Australia,3,Steven Smith,0,5,4,0,0,0.00
+Sri Lanka Vs Australia,Australia,4,Marnus Labuschagne,40,60,100,2,0,66.66
+Sri Lanka Vs Australia,Australia,5,Josh Inglis †,58,59,75,5,1,98.30
+Sri Lanka Vs Australia,Australia,6,Glenn Maxwell,31,21,30,4,2,147.61
+Sri Lanka Vs Australia,Australia,7,Marcus Stoinis,20,10,10,2,1,200.00
+Afghanistan Vs England,Afghanistan,1,Rahmanullah Gurbaz,80,57,87,8,4,140.35
+Afghanistan Vs England,Afghanistan,2,Ibrahim Zadran,28,48,73,3,0,58.33
+Afghanistan Vs England,Afghanistan,3,Rahmat Shah,3,8,10,0,0,37.50
+Afghanistan Vs England,Afghanistan,4,Hashmatullah Shahidi (c),14,36,46,0,0,38.88
+Afghanistan Vs England,Afghanistan,5,Azmatullah Omarzai,19,24,25,1,1,79.16
+Afghanistan Vs England,Afghanistan,6,Ikram Alikhil †,58,66,92,3,2,87.87
+Afghanistan Vs England,Afghanistan,7,Mohammad Nabi,9,15,14,1,0,60.00
+Afghanistan Vs England,Afghanistan,8,Rashid Khan,23,22,37,3,0,104.54
+Afghanistan Vs England,Afghanistan,9,Mujeeb Ur Rahman,28,16,22,3,1,175.00
+Afghanistan Vs England,Afghanistan,10,Naveen-ul-Haq,5,6,9,1,0,83.33
+Afghanistan Vs England,Afghanistan,11,Fazalhaq Farooqi,2,4,7,0,0,50.00
+Afghanistan Vs England,England,1,Jonny Bairstow,2,4,5,0,0,50.00
+Afghanistan Vs England,England,2,Dawid Malan,32,39,61,4,0,82.05
+Afghanistan Vs England,England,3,Joe Root,11,17,23,2,0,64.70
+Afghanistan Vs England,England,4,Harry Brook,66,61,123,7,1,108.19
+Afghanistan Vs England,England,5,Jos Buttler (c)†,9,18,21,1,0,50.00
+Afghanistan Vs England,England,6,Liam Livingstone,10,14,15,1,0,71.42
+Afghanistan Vs England,England,7,Sam Curran,10,23,22,0,0,43.47
+Afghanistan Vs England,England,8,Chris Woakes,9,26,21,1,0,34.61
+Afghanistan Vs England,England,9,Adil Rashid,20,13,24,2,0,153.84
+Afghanistan Vs England,England,10,Mark Wood,18,22,26,3,0,81.81
+Afghanistan Vs England,England,11,Reece Topley,15,7,8,3,0,214.28
+Pakistan Vs India,Pakistan,1,Abdullah Shafique,20,24,39,3,0,83.33
+Pakistan Vs India,Pakistan,2,Imam-ul-Haq,36,38,64,6,0,94.73
+Pakistan Vs India,Pakistan,3,Babar Azam (c),50,58,89,7,0,86.20
+Pakistan Vs India,Pakistan,4,Mohammad Rizwan †,49,69,89,7,0,71.01
+Pakistan Vs India,Pakistan,5,Saud Shakeel,6,10,12,0,0,60.00
+Pakistan Vs India,Pakistan,6,Iftikhar Ahmed,4,4,2,1,0,100.00
+Pakistan Vs India,Pakistan,7,Shadab Khan,2,5,11,0,0,40.00
+Pakistan Vs India,Pakistan,8,Mohammad Nawaz,4,14,25,0,0,28.57
+Pakistan Vs India,Pakistan,9,Hasan Ali,12,19,21,2,0,63.15
+Pakistan Vs India,Pakistan,10,Shaheen Shah Afridi,2,10,12,0,0,20.00
+Pakistan Vs India,Pakistan,11,Haris Rauf,2,6,9,0,0,33.33
+Pakistan Vs India,India,1,Rohit Sharma (c),86,63,91,6,6,136.50
+Pakistan Vs India,India,2,Shubman Gill,16,11,11,4,0,145.45
+Pakistan Vs India,India,3,Virat Kohli,16,18,31,3,0,88.88
+Pakistan Vs India,India,4,Shreyas Iyer,53,62,80,3,2,85.48
+Pakistan Vs India,India,5,KL Rahul †,19,29,33,2,0,65.51
+Bangladesh Vs New Zealand,Bangladesh,1,Litton Das,0,1,1,0,0,0.00
+Bangladesh Vs New Zealand,Bangladesh,2,Tanzid Hasan,16,17,37,4,0,94.11
+Bangladesh Vs New Zealand,Bangladesh,3,Mehidy Hasan Miraz,30,46,52,4,0,65.21
+Bangladesh Vs New Zealand,Bangladesh,4,Najmul Hossain Shanto,7,8,20,1,0,87.50
+Bangladesh Vs New Zealand,Bangladesh,5,Shakib Al Hasan (c),40,51,75,3,2,78.43
+Bangladesh Vs New Zealand,Bangladesh,6,Mushfiqur Rahim †,66,75,93,6,2,88.00
+Bangladesh Vs New Zealand,Bangladesh,7,Towhid Hridoy,13,25,30,0,0,52.00
+Bangladesh Vs New Zealand,Bangladesh,8,Mahmudullah,41,49,58,2,2,83.67
+Bangladesh Vs New Zealand,Bangladesh,9,Taskin Ahmed,17,19,25,0,2,89.47
+Bangladesh Vs New Zealand,Bangladesh,10,Mustafizur Rahman,4,10,14,0,0,40.00
+Bangladesh Vs New Zealand,Bangladesh,11,Shoriful Islam,2,3,9,0,0,66.66
+Bangladesh Vs New Zealand,New Zealand,1,Devon Conway,45,59,91,3,0,76.27
+Bangladesh Vs New Zealand,New Zealand,2,Rachin Ravindra,9,13,12,2,0,69.23
+Bangladesh Vs New Zealand,New Zealand,3,Kane Williamson (c),78,107,158,8,1,72.89
+Bangladesh Vs New Zealand,New Zealand,4,Daryl Mitchell,89,67,103,6,4,132.83
+Bangladesh Vs New Zealand,New Zealand,5,Glenn Phillips,16,11,22,1,1,145.45
+South Africa Vs Australia,South Africa,1,Quinton de Kock †,109,106,147,8,5,102.83
+South Africa Vs Australia,South Africa,2,Temba Bavuma (c),35,55,84,2,0,63.63
+South Africa Vs Australia,South Africa,3,Rassie van der Dussen,26,30,33,2,0,86.66
+South Africa Vs Australia,South Africa,4,Aiden Markram,56,44,61,7,1,127.27
+South Africa Vs Australia,South Africa,5,Heinrich Klaasen,29,27,40,3,0,107.40
+South Africa Vs Australia,South Africa,6,David Miller,17,13,35,1,1,130.76
+South Africa Vs Australia,South Africa,7,Marco Jansen,26,22,25,3,1,118.18
+South Africa Vs Australia,South Africa,8,Kagiso Rabada,0,1,4,0,0,0.00
+South Africa Vs Australia,South Africa,9,Keshav Maharaj,0,2,1,0,0,0.00
+South Africa Vs Australia,Australia,1,Mitchell Marsh,7,15,27,0,0,46.66
+South Africa Vs Australia,Australia,2,David Warner,13,27,33,2,0,48.14
+South Africa Vs Australia,Australia,3,Steven Smith,19,16,20,4,0,118.75
+South Africa Vs Australia,Australia,4,Marnus Labuschagne,46,74,125,3,0,62.16
+South Africa Vs Australia,Australia,5,Josh Inglis †,5,4,5,1,0,125.00
+South Africa Vs Australia,Australia,6,Glenn Maxwell,3,17,17,0,0,17.64
+South Africa Vs Australia,Australia,7,Marcus Stoinis,5,4,6,1,0,125.00
+South Africa Vs Australia,Australia,8,Mitchell Starc,27,51,69,3,0,52.94
+South Africa Vs Australia,Australia,9,Pat Cummins (c),22,21,29,4,0,104.76
+South Africa Vs Australia,Australia,10,Adam Zampa,11,16,25,1,0,68.75
+South Africa Vs Australia,Australia,11,Josh Hazlewood,2,2,1,0,0,100.00
+Afghanistan Vs India,Afghanistan,1,Rahmanullah Gurbaz †,21,28,65,3,1,75.00
+Afghanistan Vs India,Afghanistan,2,Ibrahim Zadran,22,28,31,4,0,78.57
+Afghanistan Vs India,Afghanistan,3,Rahmat Shah,16,22,37,3,0,72.72
+Afghanistan Vs India,Afghanistan,4,Hashmatullah Shahidi (c),80,88,128,8,1,90.90
+Afghanistan Vs India,Afghanistan,5,Azmatullah Omarzai,62,69,82,2,4,89.85
+Afghanistan Vs India,Afghanistan,6,Mohammad Nabi,19,27,52,1,0,70.37
+Afghanistan Vs India,Afghanistan,7,Najibullah Zadran,2,8,6,0,0,25.00
+Afghanistan Vs India,Afghanistan,8,Rashid Khan,16,12,18,1,1,133.33
+Afghanistan Vs India,Afghanistan,9,Mujeeb Ur Rahman,10,12,22,2,0,83.33
+Afghanistan Vs India,Afghanistan,10,Naveen-ul-Haq,9,8,8,1,0,112.50
+Afghanistan Vs India,India,1,Rohit Sharma (c),131,84,111,16,5,155.95
+Afghanistan Vs India,India,2,Ishan Kishan,47,47,78,5,2,100.00
+Afghanistan Vs India,India,3,Virat Kohli,55,56,64,6,0,98.21
+Afghanistan Vs India,India,4,Shreyas Iyer,25,23,31,1,1,108.69
+Sri Lanka Vs Pakistan,Sri Lanka,1,Pathum Nissanka,51,61,79,7,1,83.60
+Sri Lanka Vs Pakistan,Sri Lanka,2,Kusal Perera,0,4,7,0,0,0.00
+Sri Lanka Vs Pakistan,Sri Lanka,3,Kusal Mendis †,122,77,124,14,6,158.44
+Sri Lanka Vs Pakistan,Sri Lanka,4,Sadeera Samarawickrama,108,89,139,11,2,121.34
+Sri Lanka Vs Pakistan,Sri Lanka,5,Charith Asalanka,1,3,5,0,0,33.33
+Sri Lanka Vs Pakistan,Sri Lanka,6,Dhananjaya de Silva,25,34,47,3,0,73.52
+Sri Lanka Vs Pakistan,Sri Lanka,7,Dasun Shanaka (c),12,18,23,0,0,66.66
+Sri Lanka Vs Pakistan,Sri Lanka,8,Dunith Wellalage,10,8,18,1,0,125.00
+Sri Lanka Vs Pakistan,Sri Lanka,9,Maheesh Theekshana,0,4,6,0,0,0.00
+Sri Lanka Vs Pakistan,Sri Lanka,10,Matheesha Pathirana,1,3,3,0,0,33.33
+Sri Lanka Vs Pakistan,Pakistan,1,Abdullah Shafique,113,103,150,10,3,109.70
+Sri Lanka Vs Pakistan,Pakistan,2,Imam-ul-Haq,12,12,15,1,0,100.00
+Sri Lanka Vs Pakistan,Pakistan,3,Babar Azam (c),10,15,17,1,0,66.66
+Sri Lanka Vs Pakistan,Pakistan,4,Mohammad Rizwan †,131,121,193,8,3,108.26
+Sri Lanka Vs Pakistan,Pakistan,5,Saud Shakeel,31,30,57,2,0,103.33
+Sri Lanka Vs Pakistan,Pakistan,6,Iftikhar Ahmed,22,10,18,4,0,220.00
+England Vs Bangladesh,England,1,Jonny Bairstow,52,59,80,8,0,88.13
+England Vs Bangladesh,England,2,Dawid Malan,140,107,106,16,5,130.84
+England Vs Bangladesh,England,3,Joe Root,82,68,107,8,1,120.58
+England Vs Bangladesh,England,4,Jos Buttler (c)†,20,10,11,1,1,200.00
+England Vs Bangladesh,England,5,Harry Brook,20,15,23,3,0,133.33
+England Vs Bangladesh,England,6,Liam Livingstone,0,1,1,0,0,0.00
+England Vs Bangladesh,England,7,Sam Curran,11,15,20,1,0,73.33
+England Vs Bangladesh,England,8,Chris Woakes,14,11,21,2,0,127.27
+England Vs Bangladesh,England,9,Adil Rashid,11,7,8,1,0,157.14
+England Vs Bangladesh,England,10,Mark Wood,6,5,6,1,0,120.00
+England Vs Bangladesh,England,11,Reece Topley,1,2,2,0,0,50.00
+England Vs Bangladesh,Bangladesh,1,Litton Das,76,66,99,7,2,115.15
+England Vs Bangladesh,Bangladesh,2,Tanzid Hasan,1,2,7,0,0,50.00
+England Vs Bangladesh,Bangladesh,3,Najmul Hossain Shanto,0,1,1,0,0,0.00
+England Vs Bangladesh,Bangladesh,4,Shakib Al Hasan (c),1,9,16,0,0,11.11
+England Vs Bangladesh,Bangladesh,5,Mehidy Hasan Miraz,8,7,12,1,0,114.28
+England Vs Bangladesh,Bangladesh,6,Mushfiqur Rahim †,51,64,93,4,0,79.68
+England Vs Bangladesh,Bangladesh,7,Towhid Hridoy,39,61,70,2,0,63.93
+England Vs Bangladesh,Bangladesh,8,Mahedi Hasan,14,32,39,1,0,43.75
+England Vs Bangladesh,Bangladesh,9,Taskin Ahmed,15,25,35,0,1,60.00
+England Vs Bangladesh,Bangladesh,10,Shoriful Islam,12,14,17,2,0,85.71
+England Vs Bangladesh,Bangladesh,11,Mustafizur Rahman,3,9,12,0,0,33.33
+New Zealand Vs Netherlands,New Zealand,1,Devon Conway,32,40,51,5,1,80.00
+New Zealand Vs Netherlands,New Zealand,2,Will Young,70,80,106,7,2,87.50
+New Zealand Vs Netherlands,New Zealand,3,Rachin Ravindra,51,51,87,3,1,100.00
+New Zealand Vs Netherlands,New Zealand,4,Daryl Mitchell,48,47,67,5,2,102.12
+New Zealand Vs Netherlands,New Zealand,5,Tom Latham (c)†,53,46,72,6,1,115.21
+New Zealand Vs Netherlands,New Zealand,6,Glenn Phillips,4,4,6,1,0,100.00
+New Zealand Vs Netherlands,New Zealand,7,Mark Chapman,5,13,11,0,0,38.46
+New Zealand Vs Netherlands,New Zealand,8,Mitchell Santner,36,17,25,3,2,211.76
+New Zealand Vs Netherlands,New Zealand,9,Matt Henry,10,4,6,0,1,250.00
+New Zealand Vs Netherlands,Netherlands,1,Vikramjit Singh,12,20,22,1,0,60.00
+New Zealand Vs Netherlands,Netherlands,2,Max O'Dowd,16,31,40,2,0,51.61
+New Zealand Vs Netherlands,Netherlands,3,Colin Ackermann,69,73,98,5,0,94.52
+New Zealand Vs Netherlands,Netherlands,4,Bas de Leede,18,25,21,3,0,72.00
+New Zealand Vs Netherlands,Netherlands,5,Teja Nidamanuru,21,26,28,2,1,80.76
+New Zealand Vs Netherlands,Netherlands,6,Scott Edwards (c)†,30,27,37,2,1,111.11
+New Zealand Vs Netherlands,Netherlands,7,Sybrand Engelbrecht,29,34,55,3,0,85.29
+New Zealand Vs Netherlands,Netherlands,8,Roelof van der Merwe,1,6,9,0,0,16.66
+New Zealand Vs Netherlands,Netherlands,9,Ryan Klein,8,15,23,0,0,53.33
+New Zealand Vs Netherlands,Netherlands,10,Aryan Dutt,11,20,19,0,1,55.00
+New Zealand Vs Netherlands,Netherlands,11,Paul van Meekeren,4,3,5,1,0,133.33
+Australia Vs India,Australia,1,David Warner,41,52,76,6,0,78.84
+Australia Vs India,Australia,2,Mitchell Marsh,0,6,11,0,0,0.00
+Australia Vs India,Australia,3,Steven Smith,46,71,112,5,0,64.78
+Australia Vs India,Australia,4,Marnus Labuschagne,27,41,58,1,0,65.85
+Australia Vs India,Australia,5,Glenn Maxwell,15,25,44,1,0,60.00
+Australia Vs India,Australia,6,Alex Carey †,0,2,1,0,0,0.00
+Australia Vs India,Australia,7,Cameron Green,8,20,31,0,0,40.00
+Australia Vs India,Australia,8,Pat Cummins (c),15,24,26,1,1,62.50
+Australia Vs India,Australia,9,Mitchell Starc,28,35,58,2,1,80.00
+Australia Vs India,Australia,10,Adam Zampa,6,20,28,0,0,30.00
+Australia Vs India,Australia,11,Josh Hazlewood,1,1,6,0,0,100.00
+Australia Vs India,India,1,Rohit Sharma (c),0,6,10,0,0,0.00
+Australia Vs India,India,2,Ishan Kishan,0,1,3,0,0,0.00
+Australia Vs India,India,3,Virat Kohli,85,116,171,6,0,73.27
+Australia Vs India,India,4,Shreyas Iyer,0,3,2,0,0,0.00
+Australia Vs India,India,5,KL Rahul †,97,115,180,8,2,84.34
+Australia Vs India,India,6,Hardik Pandya,11,8,17,0,1,137.50
+South Africa Vs Sri Lanka,South Africa,1,Quinton de Kock †,100,84,140,12,3,119.04
+South Africa Vs Sri Lanka,South Africa,2,Temba Bavuma (c),8,5,9,2,0,160.00
+South Africa Vs Sri Lanka,South Africa,3,Rassie van der Dussen,108,110,161,13,2,98.18
+South Africa Vs Sri Lanka,South Africa,4,Aiden Markram,106,54,84,14,3,196.29
+South Africa Vs Sri Lanka,South Africa,5,Heinrich Klaasen,32,20,30,1,3,160.00
+South Africa Vs Sri Lanka,South Africa,6,David Miller,39,21,36,3,2,185.71
+South Africa Vs Sri Lanka,South Africa,7,Marco Jansen,12,7,15,0,1,171.42
+South Africa Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,0,3,6,0,0,0.00
+South Africa Vs Sri Lanka,Sri Lanka,2,Kusal Perera,7,15,42,1,0,46.66
+South Africa Vs Sri Lanka,Sri Lanka,3,Kusal Mendis †,76,42,55,4,8,180.95
+South Africa Vs Sri Lanka,Sri Lanka,4,Sadeera Samarawickrama,23,19,22,3,1,121.05
+South Africa Vs Sri Lanka,Sri Lanka,5,Charith Asalanka,79,65,83,8,4,121.53
+South Africa Vs Sri Lanka,Sri Lanka,6,Dhananjaya de Silva,11,14,28,1,0,78.57
+South Africa Vs Sri Lanka,Sri Lanka,7,Dasun Shanaka (c),68,62,86,6,3,109.67
+South Africa Vs Sri Lanka,Sri Lanka,8,Dunith Wellalage,0,1,2,0,0,0.00
+South Africa Vs Sri Lanka,Sri Lanka,9,Kasun Rajitha,33,31,52,4,1,106.45
+South Africa Vs Sri Lanka,Sri Lanka,10,Matheesha Pathirana,5,16,25,1,0,31.25
+South Africa Vs Sri Lanka,Sri Lanka,11,Dilshan Madushanka,4,2,4,1,0,200.00
+Afghanistan Vs Bangladesh,Afghanistan,1,Rahmanullah Gurbaz †,47,62,112,4,1,75.80
+Afghanistan Vs Bangladesh,Afghanistan,2,Ibrahim Zadran,22,25,41,3,1,88.00
+Afghanistan Vs Bangladesh,Afghanistan,3,Rahmat Shah,18,25,30,1,0,72.00
+Afghanistan Vs Bangladesh,Afghanistan,4,Hashmatullah Shahidi (c),18,38,34,2,0,47.36
+Afghanistan Vs Bangladesh,Afghanistan,5,Najibullah Zadran,5,13,16,0,0,38.46
+Afghanistan Vs Bangladesh,Afghanistan,6,Mohammad Nabi,6,12,19,0,0,50.00
+Afghanistan Vs Bangladesh,Afghanistan,7,Azmatullah Omarzai,22,20,32,4,0,110.00
+Afghanistan Vs Bangladesh,Afghanistan,8,Rashid Khan,9,16,16,1,0,56.25
+Afghanistan Vs Bangladesh,Afghanistan,9,Mujeeb Ur Rahman,1,4,9,0,0,25.00
+Afghanistan Vs Bangladesh,Afghanistan,10,Naveen-ul-Haq,0,6,8,0,0,0.00
+Afghanistan Vs Bangladesh,Afghanistan,11,Fazalhaq Farooqi,0,3,3,0,0,0.00
+Afghanistan Vs Bangladesh,Bangladesh,1,Tanzid Hasan,5,13,19,1,0,38.46
+Afghanistan Vs Bangladesh,Bangladesh,2,Litton Das,13,18,29,2,0,72.22
+Afghanistan Vs Bangladesh,Bangladesh,3,Mehidy Hasan Miraz,57,73,89,5,0,78.08
+Afghanistan Vs Bangladesh,Bangladesh,4,Najmul Hossain Shanto,59,83,112,3,1,71.08
+Afghanistan Vs Bangladesh,Bangladesh,5,Shakib Al Hasan (c),14,19,24,2,0,73.68
+Afghanistan Vs Bangladesh,Bangladesh,6,Mushfiqur Rahim †,2,3,6,0,0,66.66
+Pakistan Vs Netherlands,Pakistan,1,Fakhar Zaman,12,15,14,3,0,80.00
+Pakistan Vs Netherlands,Pakistan,2,Imam-ul-Haq,15,19,40,2,0,78.94
+Pakistan Vs Netherlands,Pakistan,3,Babar Azam (c),5,18,20,0,0,27.77
+Pakistan Vs Netherlands,Pakistan,4,Mohammad Rizwan †,68,75,104,8,0,90.66
+Pakistan Vs Netherlands,Pakistan,5,Saud Shakeel,68,52,84,9,1,130.76
+Pakistan Vs Netherlands,Pakistan,6,Iftikhar Ahmed,9,11,22,1,0,81.81
+Pakistan Vs Netherlands,Pakistan,7,Mohammad Nawaz,39,43,66,4,0,90.69
+Pakistan Vs Netherlands,Pakistan,8,Shadab Khan,32,34,42,2,1,94.11
+Pakistan Vs Netherlands,Pakistan,9,Hasan Ali,0,1,2,0,0,0.00
+Pakistan Vs Netherlands,Pakistan,10,Shaheen Shah Afridi,13,12,23,2,0,108.33
+Pakistan Vs Netherlands,Pakistan,11,Haris Rauf,16,14,10,2,1,114.28
+Pakistan Vs Netherlands,Netherlands,1,Vikramjit Singh,52,67,97,4,1,77.61
+Pakistan Vs Netherlands,Netherlands,2,Max O'Dowd,5,12,24,1,0,41.66
+Pakistan Vs Netherlands,Netherlands,3,Colin Ackermann,17,21,24,3,0,80.95
+Pakistan Vs Netherlands,Netherlands,4,Bas de Leede,67,68,92,6,2,98.52
+Pakistan Vs Netherlands,Netherlands,5,Teja Nidamanuru,5,9,10,1,0,55.55
+Pakistan Vs Netherlands,Netherlands,6,Scott Edwards (c)†,0,2,2,0,0,0.00
+Pakistan Vs Netherlands,Netherlands,7,Saqib Zulfiqar,10,18,24,1,0,55.55
+Pakistan Vs Netherlands,Netherlands,8,Roelof van der Merwe,4,7,18,0,0,57.14
+Pakistan Vs Netherlands,Netherlands,9,Logan van Beek,28,28,36,3,1,100.00
+Pakistan Vs Netherlands,Netherlands,10,Aryan Dutt,1,2,6,0,0,50.00
+Pakistan Vs Netherlands,Netherlands,11,Paul van Meekeren,7,12,17,1,0,58.33
+England Vs New Zealand,England,1,Jonny Bairstow,33,35,57,4,1,94.28
+England Vs New Zealand,England,2,Dawid Malan,14,24,36,2,0,58.33
+England Vs New Zealand,England,3,Joe Root,77,86,140,4,1,89.53
+England Vs New Zealand,England,4,Harry Brook,25,16,20,4,1,156.25
+England Vs New Zealand,England,5,Moeen Ali,11,17,20,1,0,64.70
+England Vs New Zealand,England,6,Jos Buttler (c)†,43,42,48,2,2,102.38
+England Vs New Zealand,England,7,Liam Livingstone,20,22,23,3,0,90.90
+England Vs New Zealand,England,8,Sam Curran,14,19,30,0,0,73.68
+England Vs New Zealand,England,9,Chris Woakes,11,12,15,1,0,91.66
+England Vs New Zealand,England,10,Adil Rashid,15,13,23,0,1,115.38
+England Vs New Zealand,England,11,Mark Wood,13,14,19,0,0,92.85
+England Vs New Zealand,New Zealand,1,Devon Conway,152,121,147,19,3,125.61
+England Vs New Zealand,New Zealand,2,Will Young,0,1,5,0,0,0.00
+England Vs New Zealand,New Zealand,3,Rachin Ravindra,123,96,141,11,5,128.12
