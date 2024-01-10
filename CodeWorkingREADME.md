@@ -1,4 +1,4 @@
-# Stepwise code working
+# some code working explained
 The 1st step focuses on extracting match result data from the ICC Cricket World Cup 2023 tournament hosted on ESPN Cricinfo's website.
 
 # Tools and Libraries Used
